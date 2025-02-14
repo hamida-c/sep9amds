@@ -1,10 +1,9 @@
 
 
-def add(a,b,c):
-    return a+b+c
+def sub(a,b):
+    return a-b
 
 x=3
 y=2
-c=1
 
-print(add(x,y,c))
+print(sub(x,y))
